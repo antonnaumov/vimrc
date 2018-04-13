@@ -1,3 +1,4 @@
 execute pathogen#infect() 
-colo darkblue
+colo desert
 syntax on
+set number
